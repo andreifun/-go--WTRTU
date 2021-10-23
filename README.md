@@ -1,2 +1,2 @@
-# -go--WTRTU
+# &go--WTRTU
 Web Template Ready To Use
